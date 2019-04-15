@@ -1,3 +1,3 @@
 # hello-world
 TMS Coding basics 
-After much time and energy, I've learned the answer to lifes question is...42
+THGTTG: "The Ultimate Answer to Life, The Universe and Everything is...42!"
